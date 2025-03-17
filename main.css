@@ -145,21 +145,23 @@ aside
 position: fixed;
 	top: 60px;
 	right: 0%;
-    background-color: rgba(235, 232, 217, 0.8);
+    background-color: #C3D7EE;
     font: small Verdana,sans-serif;
     font-size:80%;
-    width: 10%;
+    width: 8%;
     margin: 2%;
     padding: 20px;
     border-radius: 10px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     z-index: 1;
-    box-shadow: 0 0 10px #629996;
-    -moz-box-shadow: 0 0 10px #629996;
-    -webkit-box-shadow: 0 0 10px #629996;
+    box-shadow: 0 0 10px #2774AE;
+    -moz-box-shadow: 0 0 10px #2774AE;
+    -webkit-box-shadow: 0 0 10px #2774AE;
 
 }
+
+
 
 .ContactInfo img
 {
